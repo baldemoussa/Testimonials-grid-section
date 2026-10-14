@@ -1,5 +1,7 @@
 # Testimonials Grid
 
+## By [Mamadou Moussa Balde](https://www.linkedin.com/in/2mb/)
+
 A static testimonials page for five Frontend Mentor graduates. The browser tab title is **Frontend Mentor | Mamadou Moussa Balde**. The font is Barlow Semi Condensed. The page background is grey, `hsl(0, 0%, 81%)`.
 
 There is no script. The layout is CSS grid.
